@@ -1,0 +1,6 @@
+{
+  "name": "BharatGov: Indian Governance Model Hierarchy",
+  "description": "Interactive node-based visualizer and constitutional power atlas mapping the Indian Governance Model from President and Prime Minister down to State, District, and Panchayati Raj institutions with powers, salaries, and responsibilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
